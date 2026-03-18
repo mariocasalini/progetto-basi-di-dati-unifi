@@ -1,4 +1,4 @@
-# 🎛️ Record Label DBMS: Gestione DataBase Studi di Registrazione
+# Record Label DBMS: Gestione DataBase Studi di Registrazione
 
 Questo progetto presenta la progettazione e l'implementazione in **MySQL** di un Database Management System (DBMS) relazionale per una grande etichetta discografica. 
 
@@ -8,7 +8,7 @@ L'obiettivo principale del progetto è dimostrare come implementare **logiche di
 
 ---
 
-## 🚀 Competenze Tecniche Evidenziate
+## Competenze Tecniche Evidenziate
 
 Questo database non è un semplice archivio di dati, ma un sistema reattivo. Ecco le architetture e le tecniche SQL avanzate implementate:
 
@@ -42,7 +42,7 @@ Il file delle interrogazioni dimostra la padronanza del Data Query Language (DQL
 
 ---
 
-## 📂 Struttura della Repository
+## Struttura della Repository
 
 Per garantire ordine e modularità, il codice è stato diviso in file logici:
 
@@ -55,7 +55,7 @@ Per garantire ordine e modularità, il codice è stato diviso in file logici:
 
 ---
 
-## ⚙️ Istruzioni per l'installazione locale
+## Istruzioni per l'installazione locale
 
 Se desideri clonare e testare il database in locale (ad es. su MySQL Workbench), esegui gli script seguendo rigorosamente questo ordine per evitare errori legati all'integrità referenziale:
 
